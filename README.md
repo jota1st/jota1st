@@ -2,7 +2,8 @@
 
 ### 🎓 Estudante de Sistemas de Informação
 
-Seja bem-vindo(a) ao meu perfil do GitHub! Sou um entusiasta da tecnologia focado em desenvolvimento web e na criação de soluções eficientes, modernas e acessíveis. Atualmente, estou cursando **Sistemas de Informação** e aprimorando minhas habilidades no ecossistema do Front-end.
+
+Construindo coisas com HTML, CSS e JavaScript. No momento, estou mergulhado no aprendizado de React e explorando como criar aplicações web que sejam rápidas e organizadas. Explorando repositórios, documentações e tentando não quebrar o código no processo. 🚀
 
 ---
 
